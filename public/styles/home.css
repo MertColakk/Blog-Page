@@ -1,0 +1,105 @@
+body{
+    background-color: #9B4444;
+}
+.createPost{
+    margin-top: 5%;
+}
+
+#submitPost{
+    font-size: 4rem;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Protest Riot', sans-serif;
+    background-color: #C68484;
+    color: #EEEEEE;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    text-shadow: none;
+}
+
+.postTexts{
+    font-size: 3.5rem;
+    color: #EEEEEE;
+    margin: auto;
+    display: block;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Protest Riot', sans-serif;
+}
+
+input{
+    margin: auto;
+    display: block;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    text-shadow: none;
+}
+
+#title{
+    background-color: #A3C9AA;
+    width: 30rem;
+    height: 4rem;
+    font-size: 2rem;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Protest Riot', sans-serif;
+}
+#content{
+    font-weight: lighter;
+    font-size: 2rem;
+    background-color: #A3C9AA;
+    width: 40rem;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Protest Riot', sans-serif;
+    padding-bottom: 222px;
+}
+.topnav {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Protest Riot', sans-serif;
+    background-color: #C68484;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    margin-left: 21%;
+    float: left;
+    color: #EEEEEE;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  .topnav a:hover {
+    background-color: #9B4444;
+  }
+
+.posts{
+    color: #EEEEEE;
+    text-align: center;
+    font-size: 3rem;
+    padding: 14px 16px;
+    font-weight: lighter;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Protest Riot', sans-serif;
+}
+#emptyBlog{
+    font-size: 2rem;
+    margin-top: 20%;
+}
+.contact{
+    color: wheat;
+    text-align: center;
+    padding: 14px 16px;
+    font-weight: lighter;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Protest Riot', sans-serif;
+    font-size: 3rem;
+    margin-top: 7%;
+    word-spacing: 2rem;
+    line-height: 7rem;
+}
+.link{
+    color: wheat;
+    font-size: 5rem; 
+}
+
+
